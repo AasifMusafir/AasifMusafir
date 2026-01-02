@@ -39,8 +39,8 @@ I am an Artificial Intelligence enthusiast <img src="https://media.giphy.com/med
 ---
 ### :climbing_man: My Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Asifkletech&show_icons=true&theme=transparent&rank_icon=github&hide=stars,prs,issues&show_owner=true&include_all_commits=true" />
+<a href="https://github.com/AasifMusafir/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=AasifMusafir&show_icons=true&theme=transparent&rank_icon=github&hide=stars,prs,issues&show_owner=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifkletech&hide_progress=True&theme=transparent&layout=compact&langs_count=8&card_width=320" />
