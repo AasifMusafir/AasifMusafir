@@ -1,63 +1,82 @@
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF6Nm5qZmg4NGZ3N2oyeTB6N3pyemUwZWxqdGc3cmtmeWZ3ZmVmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nm6266UyRc2EnfpAo8/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="250"/>
 </div>
 
-<div id="badges">
-  <div align="center">
-  <a href="https://www.linkedin.com/in/asif-musafir/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   
-    
- 
-</div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Asifkletech&style=flat-square&color=blue" alt=""/>
-<h1>
-    Hello there, I'am Asif Musafir
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
-</h1>
+  <a href="https://www.linkedin.com/in/asif-musafir/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AasifMusafir&style=flat-square&color=blue"/>
+  <h1>
+    Hello, I'm Asif Musafir
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  </h1>
+  <h2>Artificial Intelligence Enthusiast</h2>
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/l3V0DKL9Jhyz8nKog/giphy.gif" width="500" height="300"/>
 </div>
-</div>
 
 ---
-### :man_technologist: About Me :
-I am an Artificial Intelligence enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :computer: Proficient in programming, AI, embedded systems, and electronics.
 
-- :seedling: Enthusiastic problem solver, engaging in coursework, research, and personal projects to enhance expertise.
+## 🤖 About Me
 
-- :zap: In my free time, I read tech articles and hone my soft skills.
+I am an **Artificial Intelligence enthusiast** from India 🇮🇳,  
+with a strong focus on **Machine Learning and Computer Vision**.
 
-- :mailbox:How to reach me: aasifmusafir@gmail.com <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/asif-musafir/")
--->
+- 🧠 Passionate about **AI, Computer Vision, and Deep Learning**
+- 🧪 Hands-on with **model building, experimentation, and optimization**
+- 🧩 Strong problem solver with a structured learning approach
+- 📚 Constantly learning through coursework, research papers, and projects
+- ✉️ Reach me at: **aasifmusafir@gmail.com**
 
 ---
-### :climbing_man: My Stats:
 
-<a href="https://github.com/AasifMusafir/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=AasifMusafir&show_icons=true&theme=transparent&rank_icon=github&hide=stars,prs,issues&show_owner=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifkletech&hide_progress=True&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-</a>
+## 🧠 AI / Computer Vision ? NLP Focus Areas
 
-<!--
-**Asifklech/Asifkletech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Natural Language Processing (NLP)
+- Machine Learning & Deep Learning
+- Text Preprocessing & Feature Engineering
+- Transformer-based Models
+- Computer Vision
+- Research-oriented Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
 
+**Languages**
+- Python
+- C
+- C++
+
+**AI / ML**
+- NumPy, Pandas
+- scikit-learn
+- PyTorch / TensorFlow,Ultralytics
+
+**NLP**
+- NLTK
+- spaCy
+- Gensim
+- Hugging Face 🤗 Transformers
+
+**Tools**
+- Jupyter Notebook
+- ROboflow
+- VS Code
+- Git & GitHub
+
+## 🤝 Let's Collaborate
+
+I'm open to:
+- AI,NLP Computer Vision projects
+- Research-based collaborations
+- Open-source contributions
+- Knowledge sharing & discussions
+
+Feel free to connect 🚀
